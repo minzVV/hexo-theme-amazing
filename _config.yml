@@ -20,7 +20,7 @@ head:
         type: blog
         # Page URL (og:url) (optional)
         # You should leave this blank for most of the time
-        url: https://removeif.github.io/
+        url: https://minzVV.github.io/
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
         image: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png
@@ -29,7 +29,7 @@ head:
         site_name: minz VV
         # Page author (article:author) (optional)
         # You should leave this blank for most of the time
-        author: removeif
+        author: minzVV
         # Page description (og:description) (optional)
         # You should leave this blank for most of the time
         description: 
@@ -81,7 +81,7 @@ navbar:
         分类: /categories
         标签: /tags
         留言: /message
-        碎碎念: /self-talking
+        #碎碎念: /self-talking
         关于我: /about
         #相册: /album
         #友链: /friend
@@ -94,7 +94,7 @@ navbar:
         #    url: 'https://gitter.im/hexo-theme-amazing/community'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/removeif/hexo-theme-amazing'
+            url: 'https://github.com/minzVV/hexo-theme-amazing'
 
 # 页脚右侧小图标
 # Page footer configurations
@@ -109,7 +109,7 @@ footer:
             url: 'https://creativecommons.org/licenses/by/4.0/'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/removeif/hexo-theme-amazing'
+            url: 'https://github.com/minzVV/hexo-theme-amazing'
 # Article related configurations
 article:
     # Code highlight settings
@@ -270,16 +270,16 @@ widgets:
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/removeif'
-            Weibo:
-                icon: fab fa-weibo
-                url: 'https://weibo.com/removeif'
+                url: 'https://github.com/minzVV'
+            #Weibo:
+            #    icon: fab fa-weibo
+            #    url: 'https://weibo.com/removeif'
             Email:
                 icon: fa fa-envelope
                 url: 'mailto:removeif@163.com'
             Next:
                 icon: fab fa-dribbble
-                url: 'https://removeif.github.io/remove.io'
+                url: 'https://minzVV.github.io/minzVV.io'
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
