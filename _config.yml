@@ -265,7 +265,7 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: 'https://github.com/ppoffice'
+        follow_link: 'https://github.com/minzVV'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
@@ -276,7 +276,7 @@ widgets:
             #    url: 'https://weibo.com/removeif'
             Email:
                 icon: fa fa-envelope
-                url: 'mailto:removeif@163.com'
+                url: 'mailto:wong_minz@163.com'
             Next:
                 icon: fab fa-dribbble
                 url: 'https://minzVV.github.io/minzVV.io'
@@ -285,14 +285,14 @@ widgets:
                 url: /atom.xml
         has_hitokoto: true
     # Recommendation links widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: links
+        #position: right
+        #type: links
         # Names and URLs of the sites
-        links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+        #links:
+        #    Hexo: 'https://hexo.io'
+        #    Bulma: 'https://bulma.io'
     # Latest comment widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
