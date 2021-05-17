@@ -393,13 +393,13 @@ plugins:
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
-    cdn: loli
+    cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
-    fontcdn: loli
+    fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: loli
+    iconcdn: https://cdm.jsdelivr.net/npm/@fontawesome/fontawesome-free@5.14.0/css/all.css
     # https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v1.0.6/json_data/record.json, cdn前缀，对于hexo new page 页面中引用的资源文件不生效，需要手动改，如friend友链页中引用的资源
-    my_cdn_pre: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@v1.0.8/ #https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v2.2.1
+    # my_cdn_pre: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@v1.0.8/ #https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v2.2.1
 
 
 footer_copyright_dsec: © 版权说明：[本网站所有内容均收集于互联网或自己创作,<br />&nbsp;&nbsp;&nbsp;&nbsp;方便于网友与自己学习交流，如有侵权，请<a href="/message" target="_blank">留言</a>，立即处理]<br /> #footer 版权说明 可自由配置
