@@ -397,7 +397,7 @@ providers:
     # Name or URL template of the webfont CDN provider
     fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: https://cdn.jsdelivr.net/npm/@fontawesome/fontawesome-free@5.14.0/css/all.css
+    iconcdn: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/all.css
     # https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v1.0.6/json_data/record.json, cdn前缀，对于hexo new page 页面中引用的资源文件不生效，需要手动改，如friend友链页中引用的资源
     # my_cdn_pre: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@v1.0.8/ #https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v2.2.1
 
