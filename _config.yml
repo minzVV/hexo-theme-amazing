@@ -192,12 +192,12 @@ donates:
         # Donation entry name
         type: alipay
         # Qrcode image URL
-        qrcode: 'https://raw.githubusercontent.com/removeif/blog_image/master/img/2019/20190802135456.png'
+        #qrcode: 'https://raw.githubusercontent.com/removeif/blog_image/master/img/2019/20190802135456.png'
     -
         # Donation entry name
         type: wechat
         # Qrcode image URL
-        qrcode: 'https://raw.githubusercontent.com/removeif/blog_image/master/img/2019/20190802135550.png'
+        #qrcode: 'https://raw.githubusercontent.com/removeif/blog_image/master/img/2019/20190802135550.png'
     # "Buy me a coffee" donate button configurations
 #    -
 #        type: buymeacoffee
