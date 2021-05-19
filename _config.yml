@@ -284,15 +284,27 @@ widgets:
                 icon: fas fa-rss
                 url: /atom.xml
         has_hitokoto: true
-    # Recommendation links widget configurations
-    #-
+    
+    # Tags widget configurations
+    -
         # Where should the widget be placed, left sidebar or right sidebar
-        #position: right
-        #type: links
+        position: right
+        type: tags
+
+    # Recommendation links widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: right
+        type: links
         # Names and URLs of the sites
-        #links:
-        #    Hexo: 'https://hexo.io'
-        #    Bulma: 'https://bulma.io'
+        links:
+            Hexo: 'https://hexo.io'
+            icarus: 'https://github.com/ppoffice/hexo-theme-icarus'
+            amazing: 'https://github.com/removeif/hexo-theme-amazing'
+            myblog_theme: 'https://github.com/minzVV/blog'
+            Bulma: 'https://bulma.io'
+
+
     # Latest comment widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -313,11 +325,7 @@ widgets:
         # Where should the widget be placed, left sidebar or right sidebar
         position: right
         type: archives
-    # Tags widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: tags
+
     # Google FeedBurner email subscription widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
