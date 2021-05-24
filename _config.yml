@@ -81,7 +81,7 @@ navbar:
         分类: /categories
         标签: /tags
         留言: /message
-        友链: /friend
+        #友链: /friend
         #碎碎念: /self-talking
         关于我: /about
         #相册: /album
